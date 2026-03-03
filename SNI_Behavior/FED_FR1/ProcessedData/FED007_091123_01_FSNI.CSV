@@ -1,0 +1,1853 @@
+MM:DD:YYYY hh:mm:ss,Library_Version,Session_type,Device_Number,Battery_Voltage,Motor_Turns,FR,Event,Active_Poke,Left_Poke_Count,Right_Poke_Count,Pellet_Count,Block_Pellet_Count,Retrieval_Time,InterPelletInterval,Poke_Time
+9/11/2023 12:29,1.17.0,FR1,7,4.12,nan,1,Right,Left,0,1,0,0,nan,nan,0.53
+9/11/2023 12:29,1.17.0,FR1,7,4.11,nan,1,Right,Left,0,2,0,0,nan,nan,0.03
+9/11/2023 12:29,1.17.0,FR1,7,4.11,nan,1,Right,Left,0,3,0,0,nan,nan,0
+9/11/2023 12:30,1.17.0,FR1,7,4.11,nan,1,Right,Left,0,4,0,0,nan,nan,0.05
+9/11/2023 12:31,1.17.0,FR1,7,4.12,nan,1,Left,Left,1,4,0,0,nan,nan,0.23
+9/11/2023 12:31,1.17.0,FR1,7,4.12,3,1,Pellet,Left,1,4,1,0,19.73,nan,nan
+9/11/2023 12:31,1.17.0,FR1,7,4.12,nan,1,Right,Left,1,5,1,0,nan,nan,0.1
+9/11/2023 12:31,1.17.0,FR1,7,4.11,nan,1,Right,Left,1,6,1,0,nan,nan,0
+9/11/2023 12:32,1.17.0,FR1,7,4.12,nan,1,Right,Left,1,7,1,0,nan,nan,0.32
+9/11/2023 12:33,1.17.0,FR1,7,4.12,nan,1,Right,Left,1,8,1,0,nan,nan,0.01
+9/11/2023 12:33,1.17.0,FR1,7,4.12,nan,1,Right,Left,1,9,1,0,nan,nan,0
+9/11/2023 12:33,1.17.0,FR1,7,4.12,nan,1,Left,Left,2,9,1,0,nan,nan,0.04
+9/11/2023 12:33,1.17.0,FR1,7,4.11,nan,1,LeftDuringDispense,Left,2,9,1,0,nan,nan,0.5
+9/11/2023 12:33,1.17.0,FR1,7,4.12,nan,1,LeftDuringDispense,Left,2,9,1,0,nan,nan,0.7
+9/11/2023 12:33,1.17.0,FR1,7,4.12,nan,1,LeftDuringDispense,Left,2,9,1,0,nan,nan,1.69
+9/11/2023 12:33,1.17.0,FR1,7,4.11,nan,1,LeftDuringDispense,Left,2,9,1,0,nan,nan,0.61
+9/11/2023 12:33,1.17.0,FR1,7,4.12,nan,1,RightWithPellet,Left,2,9,1,0,nan,nan,0.04
+9/11/2023 12:34,1.17.0,FR1,7,4.12,nan,1,LeftWithPellet,Left,2,9,1,0,nan,nan,0.31
+9/11/2023 12:35,1.17.0,FR1,7,4.12,nan,1,RightWithPellet,Left,2,9,1,0,nan,nan,0.15
+9/11/2023 12:35,1.17.0,FR1,7,4.11,nan,1,RightWithPellet,Left,2,9,1,0,nan,nan,0.07
+9/11/2023 12:35,1.17.0,FR1,7,4.12,nan,1,LeftWithPellet,Left,2,9,1,0,nan,nan,0.01
+9/11/2023 12:36,1.17.0,FR1,7,4.11,nan,1,LeftWithPellet,Left,2,9,1,0,nan,nan,1.13
+9/11/2023 12:37,1.17.0,FR1,7,4.12,nan,1,RightWithPellet,Left,2,9,1,0,nan,nan,0.08
+9/11/2023 12:37,1.17.0,FR1,7,4.12,nan,1,RightWithPellet,Left,2,9,1,0,nan,nan,1.48
+9/11/2023 12:38,1.17.0,FR1,7,4.12,nan,1,LeftWithPellet,Left,2,9,1,0,nan,nan,0.15
+9/11/2023 12:40,1.17.0,FR1,7,4.11,2,1,Pellet,Left,2,9,2,0,Timed_out,522,nan
+9/11/2023 12:43,1.17.0,FR1,7,4.12,nan,1,Right,Left,2,10,2,0,nan,nan,0.77
+9/11/2023 12:43,1.17.0,FR1,7,4.12,nan,1,Left,Left,3,10,2,0,nan,nan,1.53
+9/11/2023 12:43,1.17.0,FR1,7,4.12,nan,1,LeftDuringDispense,Left,3,10,2,0,nan,nan,0.21
+9/11/2023 12:44,1.17.0,FR1,7,4.12,nan,1,RightWithPellet,Left,3,10,2,0,nan,nan,0.1
+9/11/2023 12:44,1.17.0,FR1,7,4.11,2,1,Pellet,Left,3,10,3,0,10.27,235,nan
+9/11/2023 12:44,1.17.0,FR1,7,4.11,nan,1,Left,Left,4,10,3,0,nan,nan,0.82
+9/11/2023 12:44,1.17.0,FR1,7,4.12,nan,1,LeftWithPellet,Left,4,10,3,0,nan,nan,0.08
+9/11/2023 12:44,1.17.0,FR1,7,4.11,nan,1,LeftWithPellet,Left,4,10,3,0,nan,nan,0.16
+9/11/2023 12:44,1.17.0,FR1,7,4.11,nan,1,LeftWithPellet,Left,4,10,3,0,nan,nan,0.69
+9/11/2023 12:44,1.17.0,FR1,7,4.12,nan,1,LeftWithPellet,Left,4,10,3,0,nan,nan,1.37
+9/11/2023 12:44,1.17.0,FR1,7,4.12,1,1,Pellet,Left,4,10,4,0,13.17,24,nan
+9/11/2023 12:46,1.17.0,FR1,7,4.11,nan,1,Left,Left,5,10,4,0,nan,nan,0.13
+9/11/2023 12:46,1.17.0,FR1,7,4.12,nan,1,RightWithPellet,Left,5,10,4,0,nan,nan,0.62
+9/11/2023 12:47,1.17.0,FR1,7,4.12,nan,1,RightWithPellet,Left,5,10,4,0,nan,nan,0
+9/11/2023 12:48,1.17.0,FR1,7,4.11,nan,1,LeftWithPellet,Left,5,10,4,0,nan,nan,0.76
+9/11/2023 12:50,1.17.0,FR1,7,4.11,nan,1,RightWithPellet,Left,5,10,4,0,nan,nan,0.07
+9/11/2023 12:53,1.17.0,FR1,7,4.12,nan,1,LeftWithPellet,Left,5,10,4,0,nan,nan,0.12
+9/11/2023 12:53,1.17.0,FR1,7,4.12,nan,1,LeftWithPellet,Left,5,10,4,0,nan,nan,0.04
+9/11/2023 12:53,1.17.0,FR1,7,4.11,nan,1,RightWithPellet,Left,5,10,4,0,nan,nan,0.09
+9/11/2023 12:54,1.17.0,FR1,7,4.11,2,1,Pellet,Left,5,10,5,0,Timed_out,566,nan
+9/11/2023 12:54,1.17.0,FR1,7,4.11,nan,1,Right,Left,5,11,5,0,nan,nan,0.05
+9/11/2023 12:55,1.17.0,FR1,7,4.11,nan,1,Left,Left,6,11,5,0,nan,nan,0.48
+9/11/2023 12:55,1.17.0,FR1,7,4.12,1,1,Pellet,Left,6,11,6,0,7.89,82,nan
+9/11/2023 12:55,1.17.0,FR1,7,4.11,nan,1,Right,Left,6,12,6,0,nan,nan,0.63
+9/11/2023 12:55,1.17.0,FR1,7,4.11,nan,1,Right,Left,6,13,6,0,nan,nan,0
+9/11/2023 12:55,1.17.0,FR1,7,4.12,nan,1,Right,Left,6,14,6,0,nan,nan,0
+9/11/2023 12:55,1.17.0,FR1,7,4.12,nan,1,Left,Left,7,14,6,0,nan,nan,0.05
+9/11/2023 12:55,1.17.0,FR1,7,4.11,1,1,Pellet,Left,7,14,7,0,3.66,22,nan
+9/11/2023 12:55,1.17.0,FR1,7,4.11,nan,1,Left,Left,8,14,7,0,nan,nan,0.04
+9/11/2023 12:59,1.17.0,FR1,7,4.12,nan,1,RightWithPellet,Left,8,14,7,0,nan,nan,0.02
+9/11/2023 12:59,1.17.0,FR1,7,4.11,nan,1,RightWithPellet,Left,8,14,7,0,nan,nan,0.16
+9/11/2023 13:00,1.17.0,FR1,7,4.11,nan,1,RightWithPellet,Left,8,14,7,0,nan,nan,0.02
+9/11/2023 13:00,1.17.0,FR1,7,4.11,nan,1,RightWithPellet,Left,8,14,7,0,nan,nan,0.11
+9/11/2023 13:00,1.17.0,FR1,7,4.11,nan,1,RightWithPellet,Left,8,14,7,0,nan,nan,0.01
+9/11/2023 13:00,1.17.0,FR1,7,4.11,nan,1,RightWithPellet,Left,8,14,7,0,nan,nan,0.38
+9/11/2023 13:00,1.17.0,FR1,7,4.12,nan,1,RightWithPellet,Left,8,14,7,0,nan,nan,0.85
+9/11/2023 13:00,1.17.0,FR1,7,4.12,nan,1,RightWithPellet,Left,8,14,7,0,nan,nan,0.16
+9/11/2023 13:01,1.17.0,FR1,7,4.11,nan,1,LeftWithPellet,Left,8,14,7,0,nan,nan,0.02
+9/11/2023 13:02,1.17.0,FR1,7,4.11,nan,1,RightWithPellet,Left,8,14,7,0,nan,nan,0.14
+9/11/2023 13:03,1.17.0,FR1,7,4.11,nan,1,LeftWithPellet,Left,8,14,7,0,nan,nan,1.12
+9/11/2023 13:03,1.17.0,FR1,7,4.11,1,1,Pellet,Left,8,14,8,0,Timed_out,456,nan
+9/11/2023 13:06,1.17.0,FR1,7,4.11,nan,1,Right,Left,8,15,8,0,nan,nan,0.7
+9/11/2023 13:08,1.17.0,FR1,7,4.11,nan,1,Right,Left,8,16,8,0,nan,nan,0.03
+9/11/2023 13:08,1.17.0,FR1,7,4.11,nan,1,Right,Left,8,17,8,0,nan,nan,0
+9/11/2023 13:08,1.17.0,FR1,7,4.11,nan,1,Right,Left,8,18,8,0,nan,nan,0.03
+9/11/2023 13:08,1.17.0,FR1,7,4.11,nan,1,Right,Left,8,19,8,0,nan,nan,0.96
+9/11/2023 13:11,1.17.0,FR1,7,4.11,nan,1,Left,Left,9,19,8,0,nan,nan,0.01
+9/11/2023 13:11,1.17.0,FR1,7,4.11,1,1,Pellet,Left,9,19,9,0,4.03,498,nan
+9/11/2023 13:11,1.17.0,FR1,7,4.11,nan,1,Left,Left,10,19,9,0,nan,nan,0.17
+9/11/2023 13:12,1.17.0,FR1,7,4.11,1,1,Pellet,Left,10,19,10,0,13.9,28,nan
+9/11/2023 13:12,1.17.0,FR1,7,4.12,nan,1,Left,Left,11,19,10,0,nan,nan,0.77
+9/11/2023 13:12,1.17.0,FR1,7,4.12,nan,1,LeftDuringDispense,Left,11,19,10,0,nan,nan,0.12
+9/11/2023 13:13,1.17.0,FR1,7,4.12,3,1,Pellet,Left,11,19,11,0,Timed_out,100,nan
+9/11/2023 13:36,1.17.0,FR1,7,4.11,nan,1,Right,Left,11,20,11,0,nan,nan,0.01
+9/11/2023 13:38,1.17.0,FR1,7,4.11,nan,1,Left,Left,12,20,11,0,nan,nan,0.74
+9/11/2023 13:38,1.17.0,FR1,7,4.11,1,1,Pellet,Left,12,20,12,0,9.49,1464,nan
+9/11/2023 13:42,1.17.0,FR1,7,4.11,nan,1,Left,Left,13,20,12,0,nan,nan,0.56
+9/11/2023 13:42,1.17.0,FR1,7,4.12,1,1,Pellet,Left,13,20,13,0,9.74,253,nan
+9/11/2023 13:48,1.17.0,FR1,7,4.11,nan,1,Right,Left,13,21,13,0,nan,nan,1.06
+9/11/2023 14:01,1.17.0,FR1,7,4.11,nan,1,Left,Left,14,21,13,0,nan,nan,0
+9/11/2023 14:02,1.17.0,FR1,7,4.11,1,1,Pellet,Left,14,21,14,0,45.38,1192,nan
+9/11/2023 14:08,1.17.0,FR1,7,4.11,nan,1,Right,Left,14,22,14,0,nan,nan,0.04
+9/11/2023 14:09,1.17.0,FR1,7,4.11,nan,1,Left,Left,15,22,14,0,nan,nan,0
+9/11/2023 14:11,1.17.0,FR1,7,4.11,1,1,Pellet,Left,15,22,15,0,Timed_out,550,nan
+9/11/2023 14:18,1.17.0,FR1,7,4.11,nan,1,Left,Left,16,22,15,0,nan,nan,0.01
+9/11/2023 14:20,1.17.0,FR1,7,4.11,1,1,Pellet,Left,16,22,16,0,Timed_out,535,nan
+9/11/2023 14:20,1.17.0,FR1,7,4.11,nan,1,Left,Left,17,22,16,0,nan,nan,0.7
+9/11/2023 14:23,1.17.0,FR1,7,4.11,nan,1,LeftWithPellet,Left,17,22,16,0,nan,nan,0.13
+9/11/2023 14:23,1.17.0,FR1,7,4.11,nan,1,RightWithPellet,Left,17,22,16,0,nan,nan,0.69
+9/11/2023 14:24,1.17.0,FR1,7,4.11,1,1,Pellet,Left,17,22,17,0,Timed_out,252,nan
+9/11/2023 14:30,1.17.0,FR1,7,4.11,nan,1,Right,Left,17,23,17,0,nan,nan,0.31
+9/11/2023 16:15,1.17.0,FR1,7,4.11,nan,1,Left,Left,18,23,17,0,nan,nan,0.61
+9/11/2023 16:16,1.17.0,FR1,7,4.11,nan,1,LeftWithPellet,Left,18,23,17,0,nan,nan,0.12
+9/11/2023 16:17,1.17.0,FR1,7,4.11,nan,1,LeftWithPellet,Left,18,23,17,0,nan,nan,0.66
+9/11/2023 16:21,1.17.0,FR1,7,4.11,1,1,Pellet,Left,18,23,18,0,Timed_out,7022,nan
+9/11/2023 16:35,1.17.0,FR1,7,4.11,nan,1,Left,Left,19,23,18,0,nan,nan,0.66
+9/11/2023 16:36,1.17.0,FR1,7,4.11,1,1,Pellet,Left,19,23,19,0,12.63,864,nan
+9/11/2023 16:43,1.17.0,FR1,7,4.11,nan,1,Right,Left,19,24,19,0,nan,nan,0
+9/11/2023 16:54,1.17.0,FR1,7,4.1,nan,1,Right,Left,19,25,19,0,nan,nan,0.76
+9/11/2023 18:45,1.17.0,FR1,7,4.11,nan,1,Right,Left,19,26,19,0,nan,nan,0.37
+9/11/2023 18:49,1.17.0,FR1,7,4.11,nan,1,Left,Left,20,26,19,0,nan,nan,0
+9/11/2023 18:50,1.17.0,FR1,7,4.11,1,1,Pellet,Left,20,26,20,0,15.33,8043,nan
+9/11/2023 18:52,1.17.0,FR1,7,4.1,nan,1,Left,Left,21,26,20,0,nan,nan,0
+9/11/2023 18:52,1.17.0,FR1,7,4.1,1,1,Pellet,Left,21,26,21,0,4.65,132,nan
+9/11/2023 18:53,1.17.0,FR1,7,4.1,nan,1,Left,Left,22,26,21,0,nan,nan,0.02
+9/11/2023 18:54,1.17.0,FR1,7,4.1,1,1,Pellet,Left,22,26,22,0,21.43,115,nan
+9/11/2023 18:55,1.17.0,FR1,7,4.1,nan,1,Right,Left,22,27,22,0,nan,nan,0.58
+9/11/2023 18:55,1.17.0,FR1,7,4.11,nan,1,Right,Left,22,28,22,0,nan,nan,0.62
+9/11/2023 18:58,1.17.0,FR1,7,4.1,nan,1,Right,Left,22,29,22,0,nan,nan,0.86
+9/11/2023 19:09,1.17.0,FR1,7,4.11,nan,1,Right,Left,22,30,22,0,nan,nan,0.24
+9/11/2023 19:09,1.17.0,FR1,7,4.11,nan,1,Left,Left,23,30,22,0,nan,nan,1.18
+9/11/2023 19:10,1.17.0,FR1,7,4.09,2,1,Pellet,Left,23,30,23,0,16.56,953,nan
+9/11/2023 19:12,1.17.0,FR1,7,4.1,nan,1,Right,Left,23,31,23,0,nan,nan,0.58
+9/11/2023 19:18,1.17.0,FR1,7,4.1,nan,1,Left,Left,24,31,23,0,nan,nan,0.5
+9/11/2023 19:18,1.17.0,FR1,7,4.1,1,1,Pellet,Left,24,31,24,0,27.75,536,nan
+9/11/2023 19:56,1.17.0,FR1,7,4.1,nan,1,Left,Left,25,31,24,0,nan,nan,0.03
+9/11/2023 19:56,1.17.0,FR1,7,4.1,1,1,Pellet,Left,25,31,25,0,9.62,2260,nan
+9/11/2023 19:58,1.17.0,FR1,7,4.1,nan,1,Left,Left,26,31,25,0,nan,nan,0.63
+9/11/2023 19:58,1.17.0,FR1,7,4.1,2,1,Pellet,Left,26,31,26,0,6.55,129,nan
+9/11/2023 19:59,1.17.0,FR1,7,4.1,nan,1,Right,Left,26,32,26,0,nan,nan,0.49
+9/11/2023 20:00,1.17.0,FR1,7,4.09,nan,1,Right,Left,26,33,26,0,nan,nan,0.42
+9/11/2023 20:00,1.17.0,FR1,7,4.1,nan,1,Right,Left,26,34,26,0,nan,nan,0.41
+9/11/2023 20:01,1.17.0,FR1,7,4.1,nan,1,Right,Left,26,35,26,0,nan,nan,0.25
+9/11/2023 20:01,1.17.0,FR1,7,4.1,nan,1,Right,Left,26,36,26,0,nan,nan,0.55
+9/11/2023 20:01,1.17.0,FR1,7,4.1,nan,1,Right,Left,26,37,26,0,nan,nan,0.29
+9/11/2023 20:01,1.17.0,FR1,7,4.1,nan,1,Right,Left,26,38,26,0,nan,nan,0.71
+9/11/2023 20:04,1.17.0,FR1,7,4.1,nan,1,Right,Left,26,39,26,0,nan,nan,0.25
+9/11/2023 20:05,1.17.0,FR1,7,4.1,nan,1,Left,Left,27,39,26,0,nan,nan,0.96
+9/11/2023 20:05,1.17.0,FR1,7,4.1,1,1,Pellet,Left,27,39,27,0,5.26,378,nan
+9/11/2023 20:05,1.17.0,FR1,7,4.1,nan,1,Left,Left,28,39,27,0,nan,nan,0.64
+9/11/2023 20:05,1.17.0,FR1,7,4.1,7,1,Pellet,Left,28,39,28,0,2.56,39,nan
+9/11/2023 20:06,1.17.0,FR1,7,4.1,nan,1,Left,Left,29,39,28,0,nan,nan,0.78
+9/11/2023 20:06,1.17.0,FR1,7,4.09,1,1,Pellet,Left,29,39,29,0,1.4,41,nan
+9/11/2023 20:07,1.17.0,FR1,7,4.09,nan,1,Right,Left,29,40,29,0,nan,nan,0.39
+9/11/2023 20:07,1.17.0,FR1,7,4.1,nan,1,Left,Left,30,40,29,0,nan,nan,0.36
+9/11/2023 20:07,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,30,40,29,0,nan,nan,0.3
+9/11/2023 20:07,1.17.0,FR1,7,4.11,nan,1,LeftWithPellet,Left,30,40,29,0,nan,nan,0.44
+9/11/2023 20:07,1.17.0,FR1,7,4.09,1,1,Pellet,Left,30,40,30,0,7.97,58,nan
+9/11/2023 20:07,1.17.0,FR1,7,4.1,nan,1,Left,Left,31,40,30,0,nan,nan,0.34
+9/11/2023 20:07,1.17.0,FR1,7,4.1,1,1,Pellet,Left,31,40,31,0,9.37,28,nan
+9/11/2023 20:08,1.17.0,FR1,7,4.1,nan,1,Right,Left,31,41,31,0,nan,nan,0.15
+9/11/2023 20:08,1.17.0,FR1,7,4.1,nan,1,Left,Left,32,41,31,0,nan,nan,0.21
+9/11/2023 20:08,1.17.0,FR1,7,4.1,2,1,Pellet,Left,32,41,32,0,1.16,59,nan
+9/11/2023 20:08,1.17.0,FR1,7,4.1,nan,1,Left,Left,33,41,32,0,nan,nan,0.37
+9/11/2023 20:10,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,33,41,32,0,nan,nan,0.06
+9/11/2023 20:10,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,33,41,32,0,nan,nan,0.28
+9/11/2023 20:11,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,33,41,32,0,nan,nan,0.85
+9/11/2023 20:12,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,33,41,32,0,nan,nan,0.46
+9/11/2023 20:12,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,33,41,32,0,nan,nan,0.51
+9/11/2023 20:12,1.17.0,FR1,7,4.1,1,1,Pellet,Left,33,41,33,0,Timed_out,240,nan
+9/11/2023 20:12,1.17.0,FR1,7,4.1,nan,1,Right,Left,33,42,33,0,nan,nan,0.33
+9/11/2023 20:12,1.17.0,FR1,7,4.1,nan,1,Right,Left,33,43,33,0,nan,nan,0.28
+9/11/2023 20:13,1.17.0,FR1,7,4.1,nan,1,Left,Left,34,43,33,0,nan,nan,0.05
+9/11/2023 20:13,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,34,43,33,0,nan,nan,0.39
+9/11/2023 20:13,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,34,43,33,0,nan,nan,0.31
+9/11/2023 20:13,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,34,43,33,0,nan,nan,0.35
+9/11/2023 20:13,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,34,43,33,0,nan,nan,0.34
+9/11/2023 20:13,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,34,43,33,0,nan,nan,0.14
+9/11/2023 20:20,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,34,43,33,0,nan,nan,0.33
+9/11/2023 20:28,1.17.0,FR1,7,4.09,1,1,Pellet,Left,34,43,34,0,Timed_out,910,nan
+9/11/2023 20:29,1.17.0,FR1,7,4.1,nan,1,Left,Left,35,43,34,0,nan,nan,0.32
+9/11/2023 20:29,1.17.0,FR1,7,4.09,1,1,Pellet,Left,35,43,35,0,3.12,68,nan
+9/11/2023 20:30,1.17.0,FR1,7,4.1,nan,1,Left,Left,36,43,35,0,nan,nan,0.18
+9/11/2023 20:30,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,36,43,35,0,nan,nan,0.22
+9/11/2023 20:30,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,36,43,35,0,nan,nan,0.2
+9/11/2023 20:30,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,36,43,35,0,nan,nan,0.66
+9/11/2023 20:30,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,36,43,35,0,nan,nan,0.36
+9/11/2023 20:39,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,36,43,35,0,nan,nan,0.39
+9/11/2023 20:41,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,36,43,35,0,nan,nan,0.51
+9/11/2023 20:42,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,36,43,35,0,nan,nan,0.37
+9/11/2023 20:42,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,36,43,35,0,nan,nan,0.3
+9/11/2023 20:42,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,36,43,35,0,nan,nan,0.29
+9/11/2023 20:44,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,36,43,35,0,nan,nan,0.03
+9/11/2023 20:46,1.17.0,FR1,7,4.1,1,1,Pellet,Left,36,43,36,0,Timed_out,1017,nan
+9/11/2023 20:46,1.17.0,FR1,7,4.09,nan,1,Left,Left,37,43,36,0,nan,nan,0.24
+9/11/2023 20:46,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,37,43,36,0,nan,nan,0.1
+9/11/2023 20:47,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,37,43,36,0,nan,nan,0.08
+9/11/2023 20:48,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,37,43,36,0,nan,nan,0.36
+9/11/2023 20:49,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,37,43,36,0,nan,nan,0.39
+9/11/2023 20:49,1.17.0,FR1,7,4.09,1,1,Pellet,Left,37,43,37,0,Timed_out,180,nan
+9/11/2023 21:05,1.17.0,FR1,7,4.09,nan,1,Right,Left,37,44,37,0,nan,nan,0.14
+9/11/2023 21:08,1.17.0,FR1,7,4.09,nan,1,Right,Left,37,45,37,0,nan,nan,0.44
+9/11/2023 21:09,1.17.0,FR1,7,4.09,nan,1,Left,Left,38,45,37,0,nan,nan,0.28
+9/11/2023 21:09,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,38,45,37,0,nan,nan,0.05
+9/11/2023 21:09,1.17.0,FR1,7,4.1,1,1,Pellet,Left,38,45,38,0,4.25,1253,nan
+9/11/2023 21:10,1.17.0,FR1,7,4.09,nan,1,Right,Left,38,46,38,0,nan,nan,0.16
+9/11/2023 21:10,1.17.0,FR1,7,4.09,nan,1,Left,Left,39,46,38,0,nan,nan,0.77
+9/11/2023 21:11,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,39,46,38,0,nan,nan,0.02
+9/11/2023 21:11,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,39,46,38,0,nan,nan,0.04
+9/11/2023 21:13,1.17.0,FR1,7,4.09,1,1,Pellet,Left,39,46,39,0,Timed_out,200,nan
+9/11/2023 21:13,1.17.0,FR1,7,4.1,nan,1,Left,Left,40,46,39,0,nan,nan,0.38
+9/11/2023 21:13,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,40,46,39,0,nan,nan,0.07
+9/11/2023 21:15,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,40,46,39,0,nan,nan,0.23
+9/11/2023 21:15,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,40,46,39,0,nan,nan,0.33
+9/11/2023 21:19,1.17.0,FR1,7,4.09,1,1,Pellet,Left,40,46,40,0,Timed_out,372,nan
+9/11/2023 21:20,1.17.0,FR1,7,4.1,nan,1,Right,Left,40,47,40,0,nan,nan,0
+9/11/2023 21:20,1.17.0,FR1,7,4.1,nan,1,Right,Left,40,48,40,0,nan,nan,0.14
+9/11/2023 21:20,1.17.0,FR1,7,4.1,nan,1,Left,Left,41,48,40,0,nan,nan,0.25
+9/11/2023 21:20,1.17.0,FR1,7,4.08,nan,1,LeftWithPellet,Left,41,48,40,0,nan,nan,0.5
+9/11/2023 21:24,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,41,48,40,0,nan,nan,0.35
+9/11/2023 21:26,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.55
+9/11/2023 21:26,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.09
+9/11/2023 21:26,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.22
+9/11/2023 21:26,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.26
+9/11/2023 21:26,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.39
+9/11/2023 21:26,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.36
+9/11/2023 21:26,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0
+9/11/2023 21:26,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.03
+9/11/2023 21:26,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.07
+9/11/2023 21:26,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.07
+9/11/2023 21:26,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.15
+9/11/2023 21:26,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.54
+9/11/2023 21:26,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.45
+9/11/2023 21:26,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,41,48,40,0,nan,nan,0.64
+9/11/2023 21:27,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.22
+9/11/2023 21:27,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0
+9/11/2023 21:27,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,41,48,40,0,nan,nan,0.42
+9/11/2023 21:27,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.23
+9/11/2023 21:27,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,41,48,40,0,nan,nan,0.22
+9/11/2023 21:27,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,41,48,40,0,nan,nan,0.36
+9/11/2023 21:27,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,41,48,40,0,nan,nan,0.51
+9/11/2023 21:33,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,41,48,40,0,nan,nan,0.34
+9/11/2023 21:33,1.17.0,FR1,7,4.1,2,1,Pellet,Left,41,48,41,0,Timed_out,827,nan
+9/11/2023 21:33,1.17.0,FR1,7,4.09,nan,1,Left,Left,42,48,41,0,nan,nan,0.27
+9/11/2023 21:33,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,42,48,41,0,nan,nan,0.12
+9/11/2023 21:39,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,42,48,41,0,nan,nan,0.24
+9/11/2023 21:39,1.17.0,FR1,7,4.1,1,1,Pellet,Left,42,48,42,0,Timed_out,367,nan
+9/11/2023 21:39,1.17.0,FR1,7,4.09,nan,1,Left,Left,43,48,42,0,nan,nan,0.05
+9/11/2023 21:39,1.17.0,FR1,7,4.09,1,1,Pellet,Left,43,48,43,0,1.46,7,nan
+9/11/2023 21:39,1.17.0,FR1,7,4.09,nan,1,Left,Left,44,48,43,0,nan,nan,0.18
+9/11/2023 21:40,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,44,48,43,0,nan,nan,0.37
+9/11/2023 21:40,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,44,48,43,0,nan,nan,0.15
+9/11/2023 21:47,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,44,48,43,0,nan,nan,0.31
+9/11/2023 21:47,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,44,48,43,0,nan,nan,0.38
+9/11/2023 21:47,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,44,48,43,0,nan,nan,0.34
+9/11/2023 21:48,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,44,48,43,0,nan,nan,0.27
+9/11/2023 21:50,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,44,48,43,0,nan,nan,0.14
+9/11/2023 21:50,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,44,48,43,0,nan,nan,0.04
+9/11/2023 21:50,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,44,48,43,0,nan,nan,0.28
+9/11/2023 21:50,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,44,48,43,0,nan,nan,0.14
+9/11/2023 21:50,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,44,48,43,0,nan,nan,0.26
+9/11/2023 21:50,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,44,48,43,0,nan,nan,0.36
+9/11/2023 21:57,1.17.0,FR1,7,4.09,1,1,Pellet,Left,44,48,44,0,Timed_out,1103,nan
+9/11/2023 21:58,1.17.0,FR1,7,4.09,nan,1,Left,Left,45,48,44,0,nan,nan,0.35
+9/11/2023 21:58,1.17.0,FR1,7,4.09,1,1,Pellet,Left,45,48,45,0,33.18,64,nan
+9/11/2023 22:01,1.17.0,FR1,7,4.09,nan,1,Left,Left,46,48,45,0,nan,nan,0
+9/11/2023 22:05,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,46,48,45,0,nan,nan,0.28
+9/11/2023 22:06,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,46,48,45,0,nan,nan,0.05
+9/11/2023 22:08,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,46,48,45,0,nan,nan,0.09
+9/11/2023 22:09,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,46,48,45,0,nan,nan,0.21
+9/11/2023 22:09,1.17.0,FR1,7,4.09,1,1,Pellet,Left,46,48,46,0,Timed_out,630,nan
+9/11/2023 22:09,1.17.0,FR1,7,4.1,nan,1,Left,Left,47,48,46,0,nan,nan,0.08
+9/11/2023 22:13,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,47,48,46,0,nan,nan,1.34
+9/11/2023 22:13,1.17.0,FR1,7,4.1,nan,1,LeftWithPellet,Left,47,48,46,0,nan,nan,0.93
+9/11/2023 22:13,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,47,48,46,0,nan,nan,1.48
+9/11/2023 22:13,1.17.0,FR1,7,4.09,1,1,Pellet,Left,47,48,47,0,Timed_out,226,nan
+9/11/2023 22:13,1.17.0,FR1,7,4.09,nan,1,Left,Left,48,48,47,0,nan,nan,0.46
+9/11/2023 22:13,1.17.0,FR1,7,4.09,1,1,Pellet,Left,48,48,48,0,10.23,14,nan
+9/11/2023 22:13,1.17.0,FR1,7,4.09,nan,1,Right,Left,48,49,48,0,nan,nan,0.14
+9/11/2023 22:13,1.17.0,FR1,7,4.09,nan,1,Right,Left,48,50,48,0,nan,nan,0.55
+9/11/2023 22:13,1.17.0,FR1,7,4.09,nan,1,Right,Left,48,51,48,0,nan,nan,0.26
+9/11/2023 22:13,1.17.0,FR1,7,4.09,nan,1,Left,Left,49,51,48,0,nan,nan,0.38
+9/11/2023 22:13,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,49,51,48,0,nan,nan,0.39
+9/11/2023 22:14,1.17.0,FR1,7,4.09,2,1,Pellet,Left,49,51,49,0,49.51,65,nan
+9/11/2023 22:22,1.17.0,FR1,7,4.09,nan,1,Right,Left,49,52,49,0,nan,nan,0.04
+9/11/2023 22:23,1.17.0,FR1,7,4.09,nan,1,Right,Left,49,53,49,0,nan,nan,0.04
+9/11/2023 22:24,1.17.0,FR1,7,4.09,nan,1,Right,Left,49,54,49,0,nan,nan,0.03
+9/11/2023 22:28,1.17.0,FR1,7,4.09,nan,1,Left,Left,50,54,49,0,nan,nan,0.06
+9/11/2023 22:28,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,50,54,49,0,nan,nan,0.12
+9/11/2023 22:31,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,50,54,49,0,nan,nan,0.49
+9/11/2023 22:31,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,50,54,49,0,nan,nan,0.05
+9/11/2023 22:31,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,50,54,49,0,nan,nan,0.39
+9/11/2023 22:31,1.17.0,FR1,7,4.09,1,1,Pellet,Left,50,54,50,0,Timed_out,1017,nan
+9/11/2023 22:31,1.17.0,FR1,7,4.09,nan,1,Left,Left,51,54,50,0,nan,nan,0.86
+9/11/2023 22:31,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,51,54,50,0,nan,nan,0.41
+9/11/2023 22:33,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,51,54,50,0,nan,nan,0.04
+9/11/2023 22:36,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,51,54,50,0,nan,nan,0.35
+9/11/2023 22:37,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,51,54,50,0,nan,nan,0.54
+9/11/2023 22:40,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,51,54,50,0,nan,nan,0.39
+9/11/2023 22:40,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,51,54,50,0,nan,nan,0.19
+9/11/2023 22:40,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,51,54,50,0,nan,nan,0.18
+9/11/2023 22:40,1.17.0,FR1,7,4.1,2,1,Pellet,Left,51,54,51,0,Timed_out,522,nan
+9/11/2023 22:43,1.17.0,FR1,7,4.09,nan,1,Left,Left,52,54,51,0,nan,nan,0.01
+9/11/2023 22:43,1.17.0,FR1,7,4.09,1,1,Pellet,Left,52,54,52,0,3.3,191,nan
+9/11/2023 22:43,1.17.0,FR1,7,4.09,nan,1,Right,Left,52,55,52,0,nan,nan,0.65
+9/11/2023 22:43,1.17.0,FR1,7,4.09,nan,1,Left,Left,53,55,52,0,nan,nan,0.09
+9/11/2023 22:46,1.17.0,FR1,7,4.09,2,1,Pellet,Left,53,55,53,0,Timed_out,197,nan
+9/11/2023 22:51,1.17.0,FR1,7,4.09,nan,1,Left,Left,54,55,53,0,nan,nan,0.32
+9/11/2023 22:51,1.17.0,FR1,7,4.09,1,1,Pellet,Left,54,55,54,0,1.09,316,nan
+9/11/2023 22:55,1.17.0,FR1,7,4.09,nan,1,Left,Left,55,55,54,0,nan,nan,0.02
+9/11/2023 22:55,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,55,55,54,0,nan,nan,0.13
+9/11/2023 23:00,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,55,55,54,0,nan,nan,0.02
+9/11/2023 23:00,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,55,55,54,0,nan,nan,0.02
+9/11/2023 23:01,1.17.0,FR1,7,4.09,1,1,Pellet,Left,55,55,55,0,Timed_out,551,nan
+9/11/2023 23:01,1.17.0,FR1,7,4.09,nan,1,Left,Left,56,55,55,0,nan,nan,0.07
+9/11/2023 23:01,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,56,55,55,0,nan,nan,0.36
+9/11/2023 23:01,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,56,55,55,0,nan,nan,0.46
+9/11/2023 23:01,1.17.0,FR1,7,4.09,1,1,Pellet,Left,56,55,56,0,3.63,31,nan
+9/11/2023 23:01,1.17.0,FR1,7,4.09,nan,1,Right,Left,56,56,56,0,nan,nan,0.27
+9/11/2023 23:01,1.17.0,FR1,7,4.09,nan,1,Left,Left,57,56,56,0,nan,nan,0.38
+9/11/2023 23:01,1.17.0,FR1,7,4.09,nan,1,LeftDuringDispense,Left,57,56,56,0,nan,nan,0.15
+9/11/2023 23:01,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,57,56,56,0,nan,nan,0.2
+9/11/2023 23:01,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,57,56,56,0,nan,nan,1.05
+9/11/2023 23:01,1.17.0,FR1,7,4.1,nan,1,RightWithPellet,Left,57,56,56,0,nan,nan,1.75
+9/11/2023 23:01,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,57,56,56,0,nan,nan,0.42
+9/11/2023 23:02,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,57,56,56,0,nan,nan,0.11
+9/11/2023 23:02,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,57,56,56,0,nan,nan,0.41
+9/11/2023 23:02,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,57,56,56,0,nan,nan,0.7
+9/11/2023 23:12,1.17.0,FR1,7,4.09,2,1,Pellet,Left,57,56,57,0,Timed_out,666,nan
+9/11/2023 23:14,1.17.0,FR1,7,4.09,nan,1,Right,Left,57,57,57,0,nan,nan,0.09
+9/11/2023 23:15,1.17.0,FR1,7,4.09,nan,1,Right,Left,57,58,57,0,nan,nan,0.04
+9/11/2023 23:16,1.17.0,FR1,7,4.09,nan,1,Left,Left,58,58,57,0,nan,nan,0.03
+9/11/2023 23:16,1.17.0,FR1,7,4.09,1,1,Pellet,Left,58,58,58,0,1.22,218,nan
+9/11/2023 23:16,1.17.0,FR1,7,4.09,nan,1,Left,Left,59,58,58,0,nan,nan,0.27
+9/11/2023 23:16,1.17.0,FR1,7,4.09,2,1,Pellet,Left,59,58,59,0,0.85,25,nan
+9/11/2023 23:16,1.17.0,FR1,7,4.09,nan,1,Right,Left,59,59,59,0,nan,nan,0
+9/11/2023 23:16,1.17.0,FR1,7,4.09,nan,1,Left,Left,60,59,59,0,nan,nan,0.47
+9/11/2023 23:19,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,60,59,59,0,nan,nan,0.06
+9/11/2023 23:24,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,60,59,59,0,nan,nan,0.01
+9/11/2023 23:28,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,60,59,59,0,nan,nan,0.22
+9/11/2023 23:28,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,60,59,59,0,nan,nan,0.14
+9/11/2023 23:28,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,60,59,59,0,nan,nan,0.93
+9/11/2023 23:28,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,60,59,59,0,nan,nan,0.62
+9/11/2023 23:28,1.17.0,FR1,7,4.09,1,1,Pellet,Left,60,59,60,0,Timed_out,682,nan
+9/11/2023 23:28,1.17.0,FR1,7,4.09,nan,1,Left,Left,61,59,60,0,nan,nan,0.27
+9/11/2023 23:28,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,61,59,60,0,nan,nan,0.71
+9/11/2023 23:28,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,61,59,60,0,nan,nan,0.24
+9/11/2023 23:28,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,61,59,60,0,nan,nan,0.35
+9/11/2023 23:28,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,61,59,60,0,nan,nan,0
+9/11/2023 23:28,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,61,59,60,0,nan,nan,0.36
+9/11/2023 23:28,1.17.0,FR1,7,4.09,1,1,Pellet,Left,61,59,61,0,14.91,19,nan
+9/11/2023 23:31,1.17.0,FR1,7,4.09,nan,1,Right,Left,61,60,61,0,nan,nan,0.05
+9/11/2023 23:33,1.17.0,FR1,7,4.09,nan,1,Right,Left,61,61,61,0,nan,nan,0.01
+9/11/2023 23:33,1.17.0,FR1,7,4.09,nan,1,Left,Left,62,61,61,0,nan,nan,0.03
+9/11/2023 23:33,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,62,61,61,0,nan,nan,0.05
+9/11/2023 23:33,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,62,61,61,0,nan,nan,0.15
+9/11/2023 23:33,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,62,61,61,0,nan,nan,0.19
+9/11/2023 23:34,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,62,61,61,0,nan,nan,0.17
+9/11/2023 23:34,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,62,61,61,0,nan,nan,0.93
+9/11/2023 23:34,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,62,61,61,0,nan,nan,0.35
+9/11/2023 23:39,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,62,61,61,0,nan,nan,0.14
+9/11/2023 23:39,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,62,61,61,0,nan,nan,0.06
+9/11/2023 23:41,1.17.0,FR1,7,4.09,1,1,Pellet,Left,62,61,62,0,Timed_out,803,nan
+9/11/2023 23:44,1.17.0,FR1,7,4.09,nan,1,Left,Left,63,61,62,0,nan,nan,0.2
+9/11/2023 23:44,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,63,61,62,0,nan,nan,0.28
+9/11/2023 23:44,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,63,61,62,0,nan,nan,0.65
+9/11/2023 23:44,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,63,61,62,0,nan,nan,0.47
+9/11/2023 23:44,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,63,61,62,0,nan,nan,0.3
+9/11/2023 23:45,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,63,61,62,0,nan,nan,0.36
+9/11/2023 23:45,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,63,61,62,0,nan,nan,0.06
+9/11/2023 23:47,1.17.0,FR1,7,4.09,1,1,Pellet,Left,63,61,63,0,Timed_out,326,nan
+9/11/2023 23:47,1.17.0,FR1,7,4.09,nan,1,Right,Left,63,62,63,0,nan,nan,0.46
+9/11/2023 23:47,1.17.0,FR1,7,4.09,nan,1,Left,Left,64,62,63,0,nan,nan,0
+9/11/2023 23:47,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,64,62,63,0,nan,nan,0.04
+9/11/2023 23:47,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,64,62,63,0,nan,nan,0.11
+9/11/2023 23:47,1.17.0,FR1,7,4.08,nan,1,LeftWithPellet,Left,64,62,63,0,nan,nan,0.81
+9/11/2023 23:47,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,64,62,63,0,nan,nan,0.23
+9/11/2023 23:47,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,64,62,63,0,nan,nan,0.05
+9/11/2023 23:53,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,64,62,63,0,nan,nan,0.34
+9/11/2023 23:53,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,64,62,63,0,nan,nan,0.33
+9/11/2023 23:53,1.17.0,FR1,7,4.09,1,1,Pellet,Left,64,62,64,0,Timed_out,367,nan
+9/11/2023 23:53,1.17.0,FR1,7,4.09,nan,1,Left,Left,65,62,64,0,nan,nan,0.16
+9/11/2023 23:53,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,65,62,64,0,nan,nan,0.25
+9/12/2023 0:02,1.17.0,FR1,7,4.09,1,1,Pellet,Left,65,62,65,0,Timed_out,533,nan
+9/12/2023 0:10,1.17.0,FR1,7,4.09,nan,1,Right,Left,65,63,65,0,nan,nan,0.06
+9/12/2023 0:10,1.17.0,FR1,7,4.09,nan,1,Right,Left,65,64,65,0,nan,nan,0.29
+9/12/2023 0:10,1.17.0,FR1,7,4.09,nan,1,Right,Left,65,65,65,0,nan,nan,0
+9/12/2023 0:11,1.17.0,FR1,7,4.09,nan,1,Left,Left,66,65,65,0,nan,nan,0.16
+9/12/2023 0:11,1.17.0,FR1,7,4.09,1,1,Pellet,Left,66,65,66,0,1.4,572,nan
+9/12/2023 0:12,1.17.0,FR1,7,4.09,nan,1,Left,Left,67,65,66,0,nan,nan,0.45
+9/12/2023 0:12,1.17.0,FR1,7,4.09,1,1,Pellet,Left,67,65,67,0,1.95,39,nan
+9/12/2023 0:13,1.17.0,FR1,7,4.09,nan,1,Left,Left,68,65,67,0,nan,nan,0.02
+9/12/2023 0:13,1.17.0,FR1,7,4.09,1,1,Pellet,Left,68,65,68,0,2.38,67,nan
+9/12/2023 0:13,1.17.0,FR1,7,4.09,nan,1,Left,Left,69,65,68,0,nan,nan,0
+9/12/2023 0:14,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,69,65,68,0,nan,nan,0.02
+9/12/2023 0:14,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,69,65,68,0,nan,nan,0.02
+9/12/2023 0:20,1.17.0,FR1,7,4.09,1,1,Pellet,Left,69,65,69,0,Timed_out,438,nan
+9/12/2023 0:21,1.17.0,FR1,7,4.09,nan,1,Right,Left,69,66,69,0,nan,nan,0.1
+9/12/2023 0:21,1.17.0,FR1,7,4.09,nan,1,Left,Left,70,66,69,0,nan,nan,0.05
+9/12/2023 0:22,1.17.0,FR1,7,4.09,1,1,Pellet,Left,70,66,70,0,5.26,67,nan
+9/12/2023 0:22,1.17.0,FR1,7,4.09,nan,1,Left,Left,71,66,70,0,nan,nan,0.23
+9/12/2023 0:22,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,71,66,70,0,nan,nan,0
+9/12/2023 0:22,1.17.0,FR1,7,4.09,1,1,Pellet,Left,71,66,71,0,1.76,28,nan
+9/12/2023 0:23,1.17.0,FR1,7,4.09,nan,1,Left,Left,72,66,71,0,nan,nan,0.08
+9/12/2023 0:23,1.17.0,FR1,7,4.09,1,1,Pellet,Left,72,66,72,0,0.85,55,nan
+9/12/2023 0:24,1.17.0,FR1,7,4.09,nan,1,Right,Left,72,67,72,0,nan,nan,0.41
+9/12/2023 0:24,1.17.0,FR1,7,4.09,nan,1,Right,Left,72,68,72,0,nan,nan,0
+9/12/2023 0:24,1.17.0,FR1,7,4.09,nan,1,Left,Left,73,68,72,0,nan,nan,0.24
+9/12/2023 0:24,1.17.0,FR1,7,4.08,1,1,Pellet,Left,73,68,73,0,1.34,78,nan
+9/12/2023 0:27,1.17.0,FR1,7,4.09,nan,1,Right,Left,73,69,73,0,nan,nan,0.12
+9/12/2023 0:27,1.17.0,FR1,7,4.09,nan,1,Right,Left,73,70,73,0,nan,nan,0.07
+9/12/2023 0:27,1.17.0,FR1,7,4.09,nan,1,Left,Left,74,70,73,0,nan,nan,0.07
+9/12/2023 0:31,1.17.0,FR1,7,4.09,2,1,Pellet,Left,74,70,74,0,Timed_out,424,nan
+9/12/2023 0:32,1.17.0,FR1,7,4.09,nan,1,Left,Left,75,70,74,0,nan,nan,0.06
+9/12/2023 0:32,1.17.0,FR1,7,4.09,2,1,Pellet,Left,75,70,75,0,1.52,32,nan
+9/12/2023 0:32,1.17.0,FR1,7,4.09,nan,1,Left,Left,76,70,75,0,nan,nan,0.03
+9/12/2023 0:32,1.17.0,FR1,7,4.08,2,1,Pellet,Left,76,70,76,0,0.73,27,nan
+9/12/2023 0:33,1.17.0,FR1,7,4.08,nan,1,Left,Left,77,70,76,0,nan,nan,0.05
+9/12/2023 0:33,1.17.0,FR1,7,4.09,1,1,Pellet,Left,77,70,77,0,0.54,30,nan
+9/12/2023 0:34,1.17.0,FR1,7,4.09,nan,1,Right,Left,77,71,77,0,nan,nan,0
+9/12/2023 0:34,1.17.0,FR1,7,4.09,nan,1,Left,Left,78,71,77,0,nan,nan,0.03
+9/12/2023 0:37,1.17.0,FR1,7,4.09,1,1,Pellet,Left,78,71,78,0,Timed_out,238,nan
+9/12/2023 0:43,1.17.0,FR1,7,4.08,nan,1,Left,Left,79,71,78,0,nan,nan,0
+9/12/2023 0:49,1.17.0,FR1,7,4.09,1,1,Pellet,Left,79,71,79,0,Timed_out,732,nan
+9/12/2023 1:49,1.17.0,FR1,7,4.08,nan,1,Left,Left,80,71,79,0,nan,nan,0
+9/12/2023 1:49,1.17.0,FR1,7,4.08,1,1,Pellet,Left,80,71,80,0,4.28,3616,nan
+9/12/2023 1:50,1.17.0,FR1,7,4.07,nan,1,Left,Left,81,71,80,0,nan,nan,0.82
+9/12/2023 1:50,1.17.0,FR1,7,4.08,1,1,Pellet,Left,81,71,81,0,1.15,42,nan
+9/12/2023 1:51,1.17.0,FR1,7,4.08,nan,1,Left,Left,82,71,81,0,nan,nan,0.05
+9/12/2023 1:51,1.17.0,FR1,7,4.09,1,1,Pellet,Left,82,71,82,0,1.15,76,nan
+9/12/2023 1:52,1.17.0,FR1,7,4.09,nan,1,Left,Left,83,71,82,0,nan,nan,0.07
+9/12/2023 1:52,1.17.0,FR1,7,4.09,1,1,Pellet,Left,83,71,83,0,3.55,76,nan
+9/12/2023 1:53,1.17.0,FR1,7,4.09,nan,1,Left,Left,84,71,83,0,nan,nan,0
+9/12/2023 1:53,1.17.0,FR1,7,4.08,1,1,Pellet,Left,84,71,84,0,0.91,61,nan
+9/12/2023 1:54,1.17.0,FR1,7,4.08,nan,1,Left,Left,85,71,84,0,nan,nan,0.02
+9/12/2023 1:54,1.17.0,FR1,7,4.09,1,1,Pellet,Left,85,71,85,0,2.2,18,nan
+9/12/2023 1:56,1.17.0,FR1,7,4.09,nan,1,Right,Left,85,72,85,0,nan,nan,0.07
+9/12/2023 1:56,1.17.0,FR1,7,4.08,nan,1,Right,Left,85,73,85,0,nan,nan,0.19
+9/12/2023 1:56,1.17.0,FR1,7,4.08,nan,1,Left,Left,86,73,85,0,nan,nan,0.13
+9/12/2023 1:57,1.17.0,FR1,7,4.08,1,1,Pellet,Left,86,73,86,0,2.69,169,nan
+9/12/2023 1:57,1.17.0,FR1,7,4.09,nan,1,Left,Left,87,73,86,0,nan,nan,0.07
+9/12/2023 1:57,1.17.0,FR1,7,4.08,1,1,Pellet,Left,87,73,87,0,1.03,26,nan
+9/12/2023 1:57,1.17.0,FR1,7,4.08,nan,1,Left,Left,88,73,87,0,nan,nan,0.45
+9/12/2023 2:03,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,88,73,87,0,nan,nan,0.04
+9/12/2023 2:03,1.17.0,FR1,7,4.08,nan,1,LeftWithPellet,Left,88,73,87,0,nan,nan,0.25
+9/12/2023 2:03,1.17.0,FR1,7,4.09,nan,1,LeftWithPellet,Left,88,73,87,0,nan,nan,0
+9/12/2023 2:06,1.17.0,FR1,7,4.08,1,1,Pellet,Left,88,73,88,0,Timed_out,531,nan
+9/12/2023 2:06,1.17.0,FR1,7,4.08,nan,1,Left,Left,89,73,88,0,nan,nan,0.41
+9/12/2023 2:06,1.17.0,FR1,7,4.08,nan,1,RightWithPellet,Left,89,73,88,0,nan,nan,0.11
+9/12/2023 2:18,1.17.0,FR1,7,4.08,1,1,Pellet,Left,89,73,89,0,Timed_out,735,nan
+9/12/2023 2:19,1.17.0,FR1,7,4.08,nan,1,Left,Left,90,73,89,0,nan,nan,0.13
+9/12/2023 2:19,1.17.0,FR1,7,4.08,1,1,Pellet,Left,90,73,90,0,2.01,37,nan
+9/12/2023 2:21,1.17.0,FR1,7,4.07,nan,1,Left,Left,91,73,90,0,nan,nan,0.18
+9/12/2023 2:22,1.17.0,FR1,7,4.08,2,1,Pellet,Left,91,73,91,0,Timed_out,196,nan
+9/12/2023 2:29,1.17.0,FR1,7,4.09,nan,1,Left,Left,92,73,91,0,nan,nan,0.17
+9/12/2023 2:30,1.17.0,FR1,7,4.08,nan,1,RightWithPellet,Left,92,73,91,0,nan,nan,0.52
+9/12/2023 2:30,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,92,73,91,0,nan,nan,0.19
+9/12/2023 2:31,1.17.0,FR1,7,4.09,nan,1,RightWithPellet,Left,92,73,91,0,nan,nan,0.48
+9/12/2023 2:31,1.17.0,FR1,7,4.08,nan,1,LeftWithPellet,Left,92,73,91,0,nan,nan,0.03
+9/12/2023 2:31,1.17.0,FR1,7,4.08,nan,1,LeftWithPellet,Left,92,73,91,0,nan,nan,0.67
+9/12/2023 2:31,1.17.0,FR1,7,4.08,nan,1,RightWithPellet,Left,92,73,91,0,nan,nan,0.39
+9/12/2023 2:31,1.17.0,FR1,7,4.08,nan,1,LeftWithPellet,Left,92,73,91,0,nan,nan,0.12
+9/12/2023 2:31,1.17.0,FR1,7,4.08,nan,1,LeftWithPellet,Left,92,73,91,0,nan,nan,0.18
+9/12/2023 2:35,1.17.0,FR1,7,4.08,1,1,Pellet,Left,92,73,92,0,Timed_out,797,nan
+9/12/2023 2:38,1.17.0,FR1,7,4.07,nan,1,Left,Left,93,73,92,0,nan,nan,0.06
+9/12/2023 2:38,1.17.0,FR1,7,4.08,1,1,Pellet,Left,93,73,93,0,2.5,162,nan
+9/12/2023 2:39,1.17.0,FR1,7,4.08,nan,1,Left,Left,94,73,93,0,nan,nan,0.29
+9/12/2023 2:39,1.17.0,FR1,7,4.08,nan,1,LeftWithPellet,Left,94,73,93,0,nan,nan,0.49
+9/12/2023 2:40,1.17.0,FR1,7,4.08,1,1,Pellet,Left,94,73,94,0,38.28,122,nan
+9/12/2023 2:41,1.17.0,FR1,7,4.08,nan,1,Left,Left,95,73,94,0,nan,nan,0.03
+9/12/2023 2:51,1.17.0,FR1,7,4.08,1,1,Pellet,Left,95,73,95,0,Timed_out,656,nan
+9/12/2023 2:52,1.17.0,FR1,7,4.09,nan,1,Left,Left,96,73,95,0,nan,nan,0.09
+9/12/2023 2:52,1.17.0,FR1,7,4.09,1,1,Pellet,Left,96,73,96,0,1.77,47,nan
+9/12/2023 2:53,1.17.0,FR1,7,4.09,nan,1,Left,Left,97,73,96,0,nan,nan,0.01
+9/12/2023 2:54,1.17.0,FR1,7,4.08,nan,1,LeftWithPellet,Left,97,73,96,0,nan,nan,0.05
+9/12/2023 2:56,1.17.0,FR1,7,4.08,2,1,Pellet,Left,97,73,97,0,Timed_out,271,nan
+9/12/2023 2:57,1.17.0,FR1,7,4.08,nan,1,Left,Left,98,73,97,0,nan,nan,0.17
+9/12/2023 2:57,1.17.0,FR1,7,4.08,1,1,Pellet,Left,98,73,98,0,1.95,62,nan
+9/12/2023 3:04,1.17.0,FR1,7,4.09,nan,1,Left,Left,99,73,98,0,nan,nan,0.03
+9/12/2023 3:04,1.17.0,FR1,7,4.08,1,1,Pellet,Left,99,73,99,0,1.58,423,nan
+9/12/2023 3:05,1.17.0,FR1,7,4.08,nan,1,Left,Left,100,73,99,0,nan,nan,0.34
+9/12/2023 3:20,1.17.0,FR1,7,4.09,2,1,Pellet,Left,100,73,100,0,Timed_out,943,nan
+9/12/2023 4:09,1.17.0,FR1,7,4.08,nan,1,Left,Left,101,73,100,0,nan,nan,0.37
+9/12/2023 4:09,1.17.0,FR1,7,4.07,1,1,Pellet,Left,101,73,101,0,1.15,2932,nan
+9/12/2023 4:10,1.17.0,FR1,7,4.08,nan,1,Left,Left,102,73,101,0,nan,nan,0.51
+9/12/2023 4:10,1.17.0,FR1,7,4.08,2,1,Pellet,Left,102,73,102,0,1.58,60,nan
+9/12/2023 4:10,1.17.0,FR1,7,4.08,nan,1,Left,Left,103,73,102,0,nan,nan,0.02
+9/12/2023 4:10,1.17.0,FR1,7,4.08,1,1,Pellet,Left,103,73,103,0,1.46,34,nan
+9/12/2023 4:11,1.17.0,FR1,7,4.08,nan,1,Left,Left,104,73,103,0,nan,nan,0.23
+9/12/2023 4:11,1.17.0,FR1,7,4.08,2,1,Pellet,Left,104,73,104,0,1.64,48,nan
+9/12/2023 4:12,1.17.0,FR1,7,4.07,nan,1,Right,Left,104,74,104,0,nan,nan,0.39
+9/12/2023 4:12,1.17.0,FR1,7,4.07,nan,1,Left,Left,105,74,104,0,nan,nan,0.07
+9/12/2023 4:12,1.17.0,FR1,7,4.08,1,1,Pellet,Left,105,74,105,0,1.95,66,nan
+9/12/2023 4:13,1.17.0,FR1,7,4.08,nan,1,Left,Left,106,74,105,0,nan,nan,0.08
+9/12/2023 4:13,1.17.0,FR1,7,4.08,nan,1,LeftWithPellet,Left,106,74,105,0,nan,nan,0.26
+9/12/2023 4:13,1.17.0,FR1,7,4.08,1,1,Pellet,Left,106,74,106,0,2.5,26,nan
+9/12/2023 4:13,1.17.0,FR1,7,4.08,nan,1,Left,Left,107,74,106,0,nan,nan,0.21
+9/12/2023 4:13,1.17.0,FR1,7,4.08,2,1,Pellet,Left,107,74,107,0,0.97,27,nan
+9/12/2023 4:27,1.17.0,FR1,7,4.08,nan,1,Left,Left,108,74,107,0,nan,nan,0.02
+9/12/2023 4:27,1.17.0,FR1,7,4.07,1,1,Pellet,Left,108,74,108,0,0.79,834,nan
+9/12/2023 4:28,1.17.0,FR1,7,4.08,nan,1,Right,Left,108,75,108,0,nan,nan,0.04
+9/12/2023 4:28,1.17.0,FR1,7,4.08,nan,1,Right,Left,108,76,108,0,nan,nan,0.73
+9/12/2023 4:28,1.17.0,FR1,7,4.07,nan,1,Left,Left,109,76,108,0,nan,nan,0.26
+9/12/2023 4:28,1.17.0,FR1,7,4.08,1,1,Pellet,Left,109,76,109,0,1.34,79,nan
+9/12/2023 4:29,1.17.0,FR1,7,4.07,nan,1,Left,Left,110,76,109,0,nan,nan,0.04
+9/12/2023 4:29,1.17.0,FR1,7,4.08,1,1,Pellet,Left,110,76,110,0,1.89,26,nan
+9/12/2023 4:30,1.17.0,FR1,7,4.08,nan,1,Right,Left,110,77,110,0,nan,nan,0.11
+9/12/2023 4:33,1.17.0,FR1,7,4.07,nan,1,Left,Left,111,77,110,0,nan,nan,0.56
+9/12/2023 4:33,1.17.0,FR1,7,4.07,1,1,Pellet,Left,111,77,111,0,1.03,254,nan
+9/12/2023 4:33,1.17.0,FR1,7,4.07,nan,1,Right,Left,111,78,111,0,nan,nan,0.01
+9/12/2023 4:35,1.17.0,FR1,7,4.07,nan,1,Left,Left,112,78,111,0,nan,nan,0.34
+9/12/2023 4:35,1.17.0,FR1,7,4.07,1,1,Pellet,Left,112,78,112,0,0.85,125,nan
+9/12/2023 4:35,1.17.0,FR1,7,4.08,nan,1,Right,Left,112,79,112,0,nan,nan,0.15
+9/12/2023 4:43,1.17.0,FR1,7,4.08,nan,1,Left,Left,113,79,112,0,nan,nan,0.06
+9/12/2023 4:43,1.17.0,FR1,7,4.08,2,1,Pellet,Left,113,79,113,0,2.01,448,nan
+9/12/2023 4:43,1.17.0,FR1,7,4.07,nan,1,Left,Left,114,79,113,0,nan,nan,0.01
+9/12/2023 4:44,1.17.0,FR1,7,4.08,1,1,Pellet,Left,114,79,114,0,1.95,52,nan
+9/12/2023 4:44,1.17.0,FR1,7,4.08,nan,1,Left,Left,115,79,114,0,nan,nan,0.28
+9/12/2023 4:44,1.17.0,FR1,7,4.08,1,1,Pellet,Left,115,79,115,0,0.55,25,nan
+9/12/2023 4:49,1.17.0,FR1,7,4.07,nan,1,Left,Left,116,79,115,0,nan,nan,0.41
+9/12/2023 4:49,1.17.0,FR1,7,4.07,1,1,Pellet,Left,116,79,116,0,2.26,294,nan
+9/12/2023 4:54,1.17.0,FR1,7,4.08,nan,1,Left,Left,117,79,116,0,nan,nan,0.03
+9/12/2023 4:55,1.17.0,FR1,7,4.07,1,1,Pellet,Left,117,79,117,0,1.89,340,nan
+9/12/2023 4:55,1.17.0,FR1,7,4.08,nan,1,Left,Left,118,79,117,0,nan,nan,0.04
+9/12/2023 4:55,1.17.0,FR1,7,4.07,1,1,Pellet,Left,118,79,118,0,0.55,21,nan
+9/12/2023 4:55,1.17.0,FR1,7,4.08,nan,1,Left,Left,119,79,118,0,nan,nan,0.5
+9/12/2023 4:55,1.17.0,FR1,7,4.07,1,1,Pellet,Left,119,79,119,0,0.79,28,nan
+9/12/2023 4:57,1.17.0,FR1,7,4.07,nan,1,Left,Left,120,79,119,0,nan,nan,0.37
+9/12/2023 4:57,1.17.0,FR1,7,4.07,1,1,Pellet,Left,120,79,120,0,1.28,85,nan
+9/12/2023 4:57,1.17.0,FR1,7,4.08,nan,1,Left,Left,121,79,120,0,nan,nan,0.06
+9/12/2023 4:57,1.17.0,FR1,7,4.07,1,1,Pellet,Left,121,79,121,0,0.91,30,nan
+9/12/2023 5:28,1.17.0,FR1,7,4.07,nan,1,Left,Left,122,79,121,0,nan,nan,0.13
+9/12/2023 5:44,1.17.0,FR1,7,4.07,1,1,Pellet,Left,122,79,122,0,Timed_out,2782,nan
+9/12/2023 5:49,1.17.0,FR1,7,4.07,nan,1,Left,Left,123,79,122,0,nan,nan,0.02
+9/12/2023 5:49,1.17.0,FR1,7,4.08,1,1,Pellet,Left,123,79,123,0,1.09,315,nan
+9/12/2023 5:49,1.17.0,FR1,7,4.07,nan,1,Left,Left,124,79,123,0,nan,nan,0.12
+9/12/2023 5:49,1.17.0,FR1,7,4.07,1,1,Pellet,Left,124,79,124,0,0.42,26,nan
+9/12/2023 5:50,1.17.0,FR1,7,4.07,nan,1,Left,Left,125,79,124,0,nan,nan,0.62
+9/12/2023 5:50,1.17.0,FR1,7,4.07,nan,1,LeftWithPellet,Left,125,79,124,0,nan,nan,0.12
+9/12/2023 6:41,1.17.0,FR1,7,4.07,1,1,Pellet,Left,125,79,125,0,Timed_out,3101,nan
+9/12/2023 6:42,1.17.0,FR1,7,4.07,nan,1,Left,Left,126,79,125,0,nan,nan,0.41
+9/12/2023 6:42,1.17.0,FR1,7,4.07,1,1,Pellet,Left,126,79,126,0,1.03,34,nan
+9/12/2023 6:42,1.17.0,FR1,7,4.07,nan,1,Left,Left,127,79,126,0,nan,nan,0.35
+9/12/2023 6:42,1.17.0,FR1,7,4.07,1,1,Pellet,Left,127,79,127,0,0.85,38,nan
+9/12/2023 6:43,1.17.0,FR1,7,4.07,nan,1,Left,Left,128,79,127,0,nan,nan,0.56
+9/12/2023 6:43,1.17.0,FR1,7,4.07,1,1,Pellet,Left,128,79,128,0,1.77,27,nan
+9/12/2023 6:43,1.17.0,FR1,7,4.07,nan,1,Left,Left,129,79,128,0,nan,nan,0.05
+9/12/2023 6:43,1.17.0,FR1,7,4.07,1,1,Pellet,Left,129,79,129,0,0.79,28,nan
+9/12/2023 6:52,1.17.0,FR1,7,4.07,nan,1,Left,Left,130,79,129,0,nan,nan,0.17
+9/12/2023 6:57,1.17.0,FR1,7,4.07,1,1,Pellet,Left,130,79,130,0,Timed_out,846,nan
+9/12/2023 6:57,1.17.0,FR1,7,4.07,nan,1,Left,Left,131,79,130,0,nan,nan,0.53
+9/12/2023 6:57,1.17.0,FR1,7,4.07,nan,1,RightDuringDispense,Left,131,79,130,0,nan,nan,0.46
+9/12/2023 6:57,1.17.0,FR1,7,4.07,nan,1,RightWithPellet,Left,131,79,130,0,nan,nan,0.05
+9/12/2023 6:57,1.17.0,FR1,7,4.07,nan,1,RightWithPellet,Left,131,79,130,0,nan,nan,0.9
+9/12/2023 6:58,1.17.0,FR1,7,4.07,nan,1,RightWithPellet,Left,131,79,130,0,nan,nan,0.73
+9/12/2023 6:58,1.17.0,FR1,7,4.07,nan,1,RightWithPellet,Left,131,79,130,0,nan,nan,0.25
+9/12/2023 7:02,1.17.0,FR1,7,4.07,1,1,Pellet,Left,131,79,131,0,Timed_out,285,nan
+9/12/2023 7:03,1.17.0,FR1,7,4.07,nan,1,Left,Left,132,79,131,0,nan,nan,0.04
+9/12/2023 7:12,1.17.0,FR1,7,4.07,nan,1,LeftWithPellet,Left,132,79,131,0,nan,nan,0.46
+9/12/2023 7:12,1.17.0,FR1,7,4.07,nan,1,LeftWithPellet,Left,132,79,131,0,nan,nan,0.01
+9/12/2023 7:15,1.17.0,FR1,7,4.07,nan,1,LeftWithPellet,Left,132,79,131,0,nan,nan,0.05
+9/12/2023 8:22,1.17.0,FR1,7,4.07,2,1,Pellet,Left,132,79,132,0,Timed_out,4824,nan
+9/12/2023 8:25,1.17.0,FR1,7,4.07,nan,1,Left,Left,133,79,132,0,nan,nan,0.08
+9/12/2023 8:27,1.17.0,FR1,7,4.07,nan,1,RightWithPellet,Left,133,79,132,0,nan,nan,0.6
+9/12/2023 8:28,1.17.0,FR1,7,4.07,nan,1,LeftWithPellet,Left,133,79,132,0,nan,nan,0.26
+9/12/2023 8:29,1.17.0,FR1,7,4.07,nan,1,RightWithPellet,Left,133,79,132,0,nan,nan,0.15
+9/12/2023 8:35,1.17.0,FR1,7,4.07,nan,1,LeftWithPellet,Left,133,79,132,0,nan,nan,0.42
+9/12/2023 8:36,1.17.0,FR1,7,4.07,nan,1,LeftWithPellet,Left,133,79,132,0,nan,nan,0.13
+9/12/2023 8:36,1.17.0,FR1,7,4.07,1,1,Pellet,Left,133,79,133,0,Timed_out,829,nan
+9/12/2023 8:43,1.17.0,FR1,7,4.07,nan,1,Left,Left,134,79,133,0,nan,nan,0.12
+9/12/2023 8:43,1.17.0,FR1,7,4.07,1,1,Pellet,Left,134,79,134,0,0.61,420,nan
+9/12/2023 8:44,1.17.0,FR1,7,4.07,nan,1,Left,Left,135,79,134,0,nan,nan,0
+9/12/2023 8:44,1.17.0,FR1,7,4.07,1,1,Pellet,Left,135,79,135,0,1.28,39,nan
+9/12/2023 8:44,1.17.0,FR1,7,4.07,nan,1,Left,Left,136,79,135,0,nan,nan,0.31
+9/12/2023 8:44,1.17.0,FR1,7,4.07,1,1,Pellet,Left,136,79,136,0,1.09,28,nan
+9/12/2023 8:45,1.17.0,FR1,7,4.06,nan,1,Left,Left,137,79,136,0,nan,nan,0.33
+9/12/2023 8:45,1.17.0,FR1,7,4.07,nan,1,LeftDuringDispense,Left,137,79,136,0,nan,nan,0.07
+9/12/2023 8:45,1.17.0,FR1,7,4.07,2,1,Pellet,Left,137,79,137,0,0.85,30,nan
+9/12/2023 10:22,1.17.0,FR1,7,4.07,nan,1,Left,Left,138,79,137,0,nan,nan,0.14
+9/12/2023 10:22,1.17.0,FR1,7,4.07,1,1,Pellet,Left,138,79,138,0,1.22,5860,nan
+9/12/2023 10:23,1.17.0,FR1,7,4.07,nan,1,Left,Left,139,79,138,0,nan,nan,0.08
+9/12/2023 10:23,1.17.0,FR1,7,4.07,nan,1,LeftDuringDispense,Left,139,79,138,0,nan,nan,0.03
+9/12/2023 10:23,1.17.0,FR1,7,4.07,2,1,Pellet,Left,139,79,139,0,2.2,59,nan
+9/12/2023 10:24,1.17.0,FR1,7,4.07,nan,1,Left,Left,140,79,139,0,nan,nan,0.28
+9/12/2023 10:24,1.17.0,FR1,7,4.07,4,1,Pellet,Left,140,79,140,0,2.62,41,nan
+9/12/2023 10:25,1.17.0,FR1,7,4.07,nan,1,Left,Left,141,79,140,0,nan,nan,0.09
+9/12/2023 10:25,1.17.0,FR1,7,4.07,3,1,Pellet,Left,141,79,141,0,1.4,28,nan
+9/12/2023 10:25,1.17.0,FR1,7,4.07,nan,1,Left,Left,142,79,141,0,nan,nan,0.04
+9/12/2023 10:25,1.17.0,FR1,7,4.07,2,1,Pellet,Left,142,79,142,0,1.03,28,nan
+9/12/2023 10:26,1.17.0,FR1,7,4.07,nan,1,Left,Left,143,79,142,0,nan,nan,0
+9/12/2023 10:26,1.17.0,FR1,7,4.07,1,1,Pellet,Left,143,79,143,0,0.61,38,nan
+9/12/2023 10:26,1.17.0,FR1,7,4.07,nan,1,Left,Left,144,79,143,0,nan,nan,0.29
+9/12/2023 10:26,1.17.0,FR1,7,4.07,2,1,Pellet,Left,144,79,144,0,1.09,39,nan
+9/12/2023 10:27,1.17.0,FR1,7,4.07,nan,1,Left,Left,145,79,144,0,nan,nan,0.02
+9/12/2023 10:27,1.17.0,FR1,7,4.07,2,1,Pellet,Left,145,79,145,0,0.54,59,nan
+9/12/2023 10:29,1.17.0,FR1,7,4.07,nan,1,Left,Left,146,79,145,0,nan,nan,0.9
+9/12/2023 10:39,1.17.0,FR1,7,4.07,2,1,Pellet,Left,146,79,146,0,Timed_out,706,nan
+9/12/2023 10:39,1.17.0,FR1,7,4.07,nan,1,Left,Left,147,79,146,0,nan,nan,0.06
+9/12/2023 10:40,1.17.0,FR1,7,4.06,2,1,Pellet,Left,147,79,147,0,1.03,28,nan
+9/12/2023 10:40,1.17.0,FR1,7,4.06,nan,1,Left,Left,148,79,147,0,nan,nan,0.04
+9/12/2023 10:40,1.17.0,FR1,7,4.07,1,1,Pellet,Left,148,79,148,0,0.6,21,nan
+9/12/2023 12:09,1.17.0,FR1,7,4.07,nan,1,Left,Left,149,79,148,0,nan,nan,0.18
+9/12/2023 12:09,1.17.0,FR1,7,4.07,1,1,Pellet,Left,149,79,149,0,1.16,5343,nan
+9/12/2023 12:13,1.17.0,FR1,7,4.06,nan,1,Left,Left,150,79,149,0,nan,nan,0.24
+9/12/2023 12:13,1.17.0,FR1,7,4.07,1,1,Pellet,Left,150,79,150,0,1.83,269,nan
+9/12/2023 12:20,1.17.0,FR1,7,4.06,nan,1,Right,Left,150,80,150,0,nan,nan,0.79
+9/12/2023 12:23,1.17.0,FR1,7,4.06,nan,1,Left,Left,151,80,150,0,nan,nan,0.65
+9/12/2023 12:23,1.17.0,FR1,7,4.06,1,1,Pellet,Left,151,80,151,0,3.79,565,nan
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
