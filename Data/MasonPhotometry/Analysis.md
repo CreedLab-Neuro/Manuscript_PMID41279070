@@ -4,7 +4,7 @@ Preprocessing https://colab.research.google.com/drive/11lXbswpBkk24Ruhv_2vUWffnu
 2. We processed the "Events" column of each Fluorescence file to create new columns on Processed_df with 0s and 1s for ToneStart, ToneEnd, Pellet Grab  
   
 Pre-processing Bonsai tracking - Data is in \Data\MasonPhotometry\Pavlovian\Bonsai  
-**https://colab.research.google.com/drive/1tAPc8rVkvDPrhrxhfAtPZRv-_8C28qM1?usp=sharing**
+**https://colab.research.google.com/drive/1tAPc8rVkvDPrhrxhfAtPZRv-_8C28qM1?usp=sharing**   
 3. We imported and synchronized the Bonsai tracking X, Y data, and Event timestamps  
 4. Initially align based on the first ToneStart   
 5. Identify Bonsai Events and plot two strip plots - RWD Tones, Bonsai Tones - use this to design an alignment strategy  
