@@ -1,0 +1,6 @@
+pyabf_sweep,clampex_sweep,UV_perc,B_perc,GR_perc,notes
+0,1,50,,,exclude very short spikes
+1,2,20,,,exclude very short spikes
+2,3,40,,,exclude very short spikes
+3,4,25,,,exclude very short spikes
+4,5,35,,,exclude very short spikes
