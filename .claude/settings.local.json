@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.biorxiv.org)",
+      "Bash(python3 -c ' *)",
+      "Bash(python -c ' *)",
+      "PowerShell(C:\\\\Users\\\\masba\\\\anaconda3\\\\python.exe --version)",
+      "PowerShell(C:\\\\Users\\\\masba\\\\anaconda3\\\\python.exe \"c:\\\\Users\\\\masba\\\\Box\\\\Kravitz Lab Box Drive\\\\Mason\\\\Files\\\\Colabs\\\\Pain Stuff\\\\tmp_check.py\")",
+      "Bash(del \"c:\\\\Users\\\\masba\\\\Box\\\\Kravitz Lab Box Drive\\\\Mason\\\\Files\\\\Colabs\\\\Pain Stuff\\\\tmp_check.py\")",
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\masba\\\\Box\\\\Kravitz Lab Box Drive\\\\Mason\\\\Open Field Pavlov\\\\Bonsai Data\" -ErrorAction SilentlyContinue)",
+      "Bash(Select-Object Name, PSIsContainer)",
+      "Bash(Sort-Object PSIsContainer -Descending)",
+      "PowerShell(C:\\\\Users\\\\masba\\\\anaconda3\\\\python.exe \"C:\\\\Users\\\\masba\\\\Box\\\\Kravitz Lab Box Drive\\\\Mason\\\\Files\\\\Colabs\\\\Pain Stuff\\\\vt_data_audit.py\")",
+      "PowerShell(C:\\\\Users\\\\masba\\\\anaconda3\\\\python.exe \"C:\\\\Users\\\\masba\\\\Box\\\\Kravitz Lab Box Drive\\\\Mason\\\\Files\\\\Colabs\\\\Pain Stuff\\\\vt_trace_check.py\")"
+    ]
+  }
+}
