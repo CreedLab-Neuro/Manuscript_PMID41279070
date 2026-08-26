@@ -48,7 +48,7 @@ with the RWD events, but retained so the synchronization error can be examined d
 
 ## Variable Tone
 
-Raw acquisition files → merged per-animal CSVs → analysis pickle → publication figure.
+Raw acquisition files → merged per-animal CSVs → analysis pickle → figures.
 
 ```text
    Bonsai/Raw            RWD/RWD_Fluorescence
@@ -62,9 +62,11 @@ Raw acquisition files → merged per-animal CSVs → analysis pickle → publica
                    ▼
          vt_pub_data.pkl
                    │
-                   │   3. Figure
-                   ▼
-      12-panel figure         SVG + PNG
+         ┌─────────┴─────────┐
+         │ 3. Figure         │ 4. SK3 rescue figure
+         ▼                   ▼
+  SHAM vs SNI          SK3 vs historical
+  12-panel figure      12-panel figure
 ```
 
 ### Notebooks
@@ -73,7 +75,8 @@ Raw acquisition files → merged per-animal CSVs → analysis pickle → publica
 |------|----------|-------|--------|
 | 1 | [**Preprocessing**](https://colab.research.google.com/drive/1VWboBgWQ1i9vQLCMjrElaLfEonZ896y-?usp=sharing) | [`Bonsai/Raw`](VariableTone/Bonsai/Raw), [`RWD/RWD_Fluorescence`](VariableTone/RWD/RWD_Fluorescence) | 24 merged CSVs + per-animal QC |
 | 2 | [**Analysis**](https://colab.research.google.com/drive/1dTUPblPC8lWDuNEe6kqzNxnXUstPhl2o?usp=sharing) | [`RWD/RWD_Processed`](VariableTone/RWD/RWD_Processed) | `vt_pub_data.pkl` |
-| 3 | [**Figure**](https://colab.research.google.com/drive/1d0uuePVV1OtxuQRkpwYnTe65zk35k1V5?usp=sharing) | `vt_pub_data.pkl` | 12-panel figure (SVG + PNG) |
+| 3 | [**Figure**](https://colab.research.google.com/drive/1d0uuePVV1OtxuQRkpwYnTe65zk35k1V5?usp=sharing) | `vt_pub_data.pkl` | Figure 1 — SHAM vs SNI (SVG + PNG) |
+| 4 | [**SK3 rescue figure**](https://colab.research.google.com/drive/1DLrFAJXmMYtcV-dKtswLUjoC0SXujoX4?usp=sharing) | `vt_pub_data.pkl` | Figure 2 — SK3 rescue (SVG + PNG) |
 
 Each notebook resolves `main` to a commit SHA on startup and fetches everything by SHA,
 so a run is pinned to one version of the data and prints which one it used.
@@ -110,8 +113,26 @@ per duration, so kernels are fit with ridge regularization (λ = 1.0).
 
 ### 3. Figure
 
-Rebuilds the 12-panel publication figure from the pickle alone — no CSVs, so it runs in
-seconds. Panel A picks up `vt_schematic.png` from the repo if present.
+Rebuilds the 12-panel publication figure (**Figure 1**, SHAM vs SNI) from the pickle alone
+— no CSVs, so it runs in seconds. Panel A picks up `vt_schematic.png` from the repo if
+present.
+
+### 4. SK3 rescue figure
+
+**Figure 2.** Same 12-panel layout, with SK3 added as the new cohort. SHAM and SNI are drawn
+**dotted and semi-transparent** to mark them as historical data rather than animals collected
+alongside SK3:
+
+| | lines | boxes |
+|---|---|---|
+| SHAM, SNI (historical) | dotted, alpha 0.55 | dashed edge, alpha 0.28 |
+| SK3 (new cohort) | solid, full opacity | solid edge, alpha 0.55 |
+
+The heatmap panels stack all three groups, panel K shows SK3's dispense kernels and panel L
+overlays both historical groups. Statistics compare **SNI vs SK3** — the rescue contrast —
+rather than SHAM vs SNI.
+
+Reads the same pickle as Figure 1, so both figures are always built from one analysis run.
 
 ### Cohort
 
