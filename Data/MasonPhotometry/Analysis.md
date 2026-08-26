@@ -15,15 +15,21 @@ anyone with the repo can reproduce a figure from raw data.
 
 Raw acquisition files → merged per-animal CSVs → analysis pickle → publication figure.
 
-```mermaid
-flowchart LR
-    A["Bonsai/Raw<br/>tracking + TTL"] --> P[VT_Preprocessing]
-    B["RWD/RWD_Fluorescence<br/>410 / 470 nm"] --> P
-    P --> C["RWD/RWD_Processed<br/>24 merged CSVs"]
-    C --> D[VT_Publication_Analysis]
-    D --> E["vt_pub_data.pkl"]
-    E --> F[VT_Publication_Figure]
-    F --> G["12-panel figure<br/>SVG + PNG"]
+```text
+   Bonsai/Raw            RWD/RWD_Fluorescence
+   tracking + TTL        410 / 470 nm
+        └──────────┬──────────┘
+                   │   1. Preprocessing
+                   ▼
+        RWD/RWD_Processed     24 merged CSVs
+                   │
+                   │   2. Analysis
+                   ▼
+         vt_pub_data.pkl
+                   │
+                   │   3. Figure
+                   ▼
+      12-panel figure         SVG + PNG
 ```
 
 ### Notebooks
@@ -116,11 +122,23 @@ with the RWD events, but retained so the synchronization error can be examined d
 
 ## Event codes
 
-TTL pulse width encodes the event type:
+TTL pulse width encodes the event type. Variable Tone classifies three codes:
 
-| Pulse | Event |
-|-------|-------|
-| 100 ms | Tone |
-| 500 ms | Pellet grab |
+| Nominal pulse | Accepted window | Event |
+|---------------|-----------------|-------|
+| 100 ms | 50–150 ms | Tone onset |
+| 500 ms | 400–700 ms | Pellet dispense |
+| 1000 ms | 900–1200 ms | Pellet retrieval (grab) |
+
+Anything outside these windows is classified `Unknown` and dropped.
+
+> **The same pulse width means different things across the two paradigms.** Pavlovian is
+> parsed two-way on a 300 ms threshold — tone below, pellet grab above — so a 500 ms pulse
+> is a *grab* there, but a *dispense* in Variable Tone. Check which paradigm you are
+> reading before interpreting a pulse.
+
+The earliest Variable Tone cohort (C57, IDs below 5) has no separate dispense signal in
+Bonsai, so dispense-width pulses from those animals are treated as retrievals and the
+dispense time is reconstructed from tone offset during analysis.
 
 All Pavlovian data used 5 s tones. Variable Tone uses 5 s, 10 s, and 20 s.
