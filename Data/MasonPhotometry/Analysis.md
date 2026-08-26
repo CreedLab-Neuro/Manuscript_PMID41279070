@@ -5,9 +5,44 @@ Every notebook pulls its data **directly from this repo** and writes its outputs
 out for you to commit — there is no local or Drive state anywhere in the chain, so
 anyone with the repo can reproduce a figure from raw data.
 
-- [Variable Tone](#variable-tone) — current pipeline, three notebooks, raw → figure
 - [Pavlovian](#pavlovian) — earlier paradigm
+- [Variable Tone](#variable-tone) — current pipeline, three notebooks, raw → figure
 - [Event codes](#event-codes)
+
+---
+
+## Pavlovian
+
+Notebooks: [**photometry preprocessing**](https://colab.research.google.com/drive/11lXbswpBkk24Ruhv_2vUWffnuOfMujLK?usp=sharing)
+· [**Bonsai tracking**](https://colab.research.google.com/drive/1tAPc8rVkvDPrhrxhfAtPZRv-_8C28qM1?usp=sharing)
+
+### Photometry
+
+Source data: [`Pavlovian/RWD/RWD_Fluorescence`](Pavlovian/RWD/RWD_Fluorescence)
+
+1. Pre-process for QC, motion correction, and z-score of the full trace — stored in `Processed_df`
+2. Parse the `Events` column of each fluorescence file into new `Processed_df` columns of
+   0s and 1s for `ToneStart`, `ToneEnd`, and `PelletGrab`
+
+### Bonsai tracking
+
+Source data: [`Pavlovian/Bonsai`](Pavlovian/Bonsai)
+
+3. Import and synchronize the Bonsai tracking X/Y data and event timestamps
+4. Align initially on the first `ToneStart`
+5. Identify Bonsai events and plot two strip plots — RWD tones and Bonsai tones — and use
+   these to design an alignment strategy
+6. Import X, Y, and events into `Processed_df` as `Bonsai_X`, `Bonsai_Y`, `Bonsai_ToneStart`
+7. Check RWD-to-Bonsai tone alignment, quantify the differences, and see whether the trace
+   can be scrunched to improve it
+8. Scale `Bonsai_X` and `Bonsai_Y` to the box (18 cm × 36 cm)
+9. Derive speed and `Distance_from_FED` from `Bonsai_X` and `Bonsai_Y`
+
+### Goal
+
+One file per mouse containing processed photometry, RWD events, Bonsai
+tracking / speed / distance-to-FED, and Bonsai events — the last being largely redundant
+with the RWD events, but retained so the synchronization error can be examined directly.
 
 ---
 
@@ -82,41 +117,6 @@ seconds. Panel A picks up `vt_schematic.png` from the repo if present.
 
 24 animals, 8 per group (SHAM, SNI, SK3), recorded at 15 Hz, with 5 s / 10 s / 20 s tones.
 One animal (F19) has no Bonsai recording and is handled as photometry-only throughout.
-
----
-
-## Pavlovian
-
-Notebooks: [**photometry preprocessing**](https://colab.research.google.com/drive/11lXbswpBkk24Ruhv_2vUWffnuOfMujLK?usp=sharing)
-· [**Bonsai tracking**](https://colab.research.google.com/drive/1tAPc8rVkvDPrhrxhfAtPZRv-_8C28qM1?usp=sharing)
-
-### Photometry
-
-Source data: [`Pavlovian/RWD/RWD_Fluorescence`](Pavlovian/RWD/RWD_Fluorescence)
-
-1. Pre-process for QC, motion correction, and z-score of the full trace — stored in `Processed_df`
-2. Parse the `Events` column of each fluorescence file into new `Processed_df` columns of
-   0s and 1s for `ToneStart`, `ToneEnd`, and `PelletGrab`
-
-### Bonsai tracking
-
-Source data: [`Pavlovian/Bonsai`](Pavlovian/Bonsai)
-
-3. Import and synchronize the Bonsai tracking X/Y data and event timestamps
-4. Align initially on the first `ToneStart`
-5. Identify Bonsai events and plot two strip plots — RWD tones and Bonsai tones — and use
-   these to design an alignment strategy
-6. Import X, Y, and events into `Processed_df` as `Bonsai_X`, `Bonsai_Y`, `Bonsai_ToneStart`
-7. Check RWD-to-Bonsai tone alignment, quantify the differences, and see whether the trace
-   can be scrunched to improve it
-8. Scale `Bonsai_X` and `Bonsai_Y` to the box (18 cm × 36 cm)
-9. Derive speed and `Distance_from_FED` from `Bonsai_X` and `Bonsai_Y`
-
-### Goal
-
-One file per mouse containing processed photometry, RWD events, Bonsai
-tracking / speed / distance-to-FED, and Bonsai events — the last being largely redundant
-with the RWD events, but retained so the synchronization error can be examined directly.
 
 ---
 
