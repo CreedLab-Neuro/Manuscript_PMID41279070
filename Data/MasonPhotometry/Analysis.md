@@ -75,8 +75,8 @@ Raw acquisition files → merged per-animal CSVs → analysis pickle → figures
 |------|----------|-------|--------|
 | 1 | [**Preprocessing**](https://colab.research.google.com/drive/1VWboBgWQ1i9vQLCMjrElaLfEonZ896y-?usp=sharing) | [`Bonsai/Raw`](VariableTone/Bonsai/Raw), [`RWD/RWD_Fluorescence`](VariableTone/RWD/RWD_Fluorescence) | 24 merged CSVs + per-animal QC |
 | 2 | [**Analysis**](https://colab.research.google.com/drive/1dTUPblPC8lWDuNEe6kqzNxnXUstPhl2o?usp=sharing) | [`RWD/RWD_Processed`](VariableTone/RWD/RWD_Processed) | `vt_pub_data.pkl` |
-| 3 | [**Figure**](https://colab.research.google.com/drive/1d0uuePVV1OtxuQRkpwYnTe65zk35k1V5?usp=sharing) | `vt_pub_data.pkl` | Figure 1 — SHAM vs SNI (SVG + PNG) |
-| 4 | [**SK3 rescue figure**](https://colab.research.google.com/drive/1DLrFAJXmMYtcV-dKtswLUjoC0SXujoX4?usp=sharing) | `vt_pub_data.pkl` | Figure 2 — SK3 rescue (SVG + PNG) |
+| 3 | [**Figure**](https://colab.research.google.com/drive/1bp6p1-VJN1DZ1PGikX77Njoj6FRj9fv-?usp=sharing) | `vt_pub_data.pkl` | Figure 1 — SHAM vs SNI (SVG + PNG) |
+| 4 | [**SK3 rescue figure**](https://colab.research.google.com/drive/1dwTDNIyNu8lvPMfgooru6MX_JYueDY-6?usp=sharing) | `vt_pub_data.pkl` | Figure 2 — SK3 rescue (SVG + PNG) |
 
 Each notebook resolves `main` to a commit SHA on startup and fetches everything by SHA,
 so a run is pinned to one version of the data and prints which one it used.
