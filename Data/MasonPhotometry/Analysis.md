@@ -13,7 +13,7 @@ anyone with the repo can reproduce a figure from raw data.
 
 ## Pavlovian
 
-Notebooks: [**photometry preprocessing**](https://colab.research.google.com/drive/11lXbswpBkk24Ruhv_2vUWffnuOfMujLK?usp=sharing)
+Notebooks: [**photometry preprocessing**](https://colab.research.google.com/drive/12E_UEN2ftu8z80lBQpkKlkAWRAKlVtmz?usp=sharing)
 · [**Bonsai tracking**](https://colab.research.google.com/drive/1tAPc8rVkvDPrhrxhfAtPZRv-_8C28qM1?usp=sharing)
 
 ### Photometry
