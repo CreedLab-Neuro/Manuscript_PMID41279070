@@ -60,14 +60,6 @@ Output is one CSV per session in [`Pavlovian/RWD/Processed Data`](Pavlovian/RWD/
 alongside [`preprocessing_qc.csv`](Pavlovian/RWD/Processed%20Data/preprocessing_qc.csv) —
 one row per session with the alignment quality, FED fit and event counts.
 
-> **Session 01 for F2, F3 and M2 is the 070225 recording.** The 060225 files that used to
-> sit here were a pilot on a deprecated pulse-count TTL scheme, with only a handful of
-> pulses and no grabs for F2 or F3, and were never used in the published figure.
-
-Of the 48 sessions, 44 have Bonsai tracking; the other four are photometry-only. Sessions
-flagged `LOW_R2` or `HIGH_MAE` in the QC table have too few grabs to locate the feeder, so
-their `DistFromFED` is unreliable — the photometry is unaffected.
-
 ### 2. Analysis
 
 Per-trial behavioural metrics (retrieval latency, percentage collected, mean speed, peak
@@ -106,18 +98,9 @@ so the events are extracted once and only the ~1.8 MB result is committed:
 Trial logic follows the original analysis: each grab claims the most recent preceding,
 not-yet-used tone; latency is measured from tone onset; success means latency < 10 s.
 
-> **Two cohorts.** OFP and OFP2 are separate groups of mice whose IDs collide except for
-> zero padding — OFP2's `M01` is **not** OFP's `M1`. `animal_id` carries an `OFP`/`OFP2`
-> prefix so they can never be merged. Reading only the first folder silently loses 4 SHAM,
-> 3 SNI and 3 SK3 animals.
-
 Panel D plots the **mean latency of successful trials, from tone onset**, which is what the
 published figure did. Including the misses turns the first pellet bin into a multi-minute
 value and blows the axis out.
-
-Two OFP2 sessions are near-empty in the source data — SHAM `M07` day 1 (2 tones, 1 grab)
-and `M01` day 3 (45 tones, 1 grab), against 130–220 tones in a healthy session. They drop
-out of most bins via the three-trial minimum.
 
 ### Cohort
 
@@ -126,14 +109,6 @@ early (baseline), session 02 late (trained).
 
 **Training behaviour:** 35 animals — 14 SHAM, 13 SNI, 8 SK3 — across both cohorts, three
 days each.
-
-### Where the code lives
-
-The notebooks are generated, never hand-edited: each `*.ipynb` is written by a
-`_build_*_nb.py` script in `Files/Colabs/Pain Stuff/Code` on Box. Edit the generator and
-re-run it; editing the notebook directly will be overwritten. `PAV_Figure_Data.ipynb`
-lives there too — it exports the numbers behind the figure as tidy CSVs (per animal, per
-trial, the plotted C/D series, and a data dictionary).
 
 ---
 
@@ -257,9 +232,6 @@ Anything outside these windows is classified `Unknown` and dropped.
 | Pulse width | most sessions, `Events` column | 100 ms tone, 500 ms grab (sampling as 467 or 533 ms at 15 Hz) |
 | `Name` / `State` | newer exports | separate columns instead of an `Events` string; same width rule |
 
-The count-coded sessions cannot be read by the width rule — every pulse falls below the
-300 ms threshold, so they decode as all tones and no grabs. Their `ToneStart` / `PelletGrab`
-columns are therefore written into the raw files before preprocessing runs.
 
 The earliest Variable Tone cohort (C57, IDs below 5) has no separate dispense signal in
 Bonsai, so dispense-width pulses from those animals are treated as retrievals and the
