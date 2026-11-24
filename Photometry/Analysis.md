@@ -36,9 +36,9 @@ Variable Tone: every notebook reads from this repo and writes outputs for you to
 
 | Step | Notebook | Reads | Writes |
 |------|----------|-------|--------|
-| 1 | [**Preprocessing**](Notebooks/PAV_Preprocessing.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/PAV_Preprocessing.ipynb)) | [`Bonsai/Scaled_Renamed`](Pavlovian/Bonsai/Scaled_Renamed), [`RWD/RWD_Fluorescence`](Pavlovian/RWD/RWD_Fluorescence) | 48 merged CSVs + per-session QC |
-| 2 | [**Analysis**](Notebooks/PAV_Analysis.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/PAV_Analysis.ipynb)) | [`RWD/Processed Data`](Pavlovian/RWD/Processed%20Data) | [`pav_pub_data.pkl`](Pavlovian/pav_pub_data.pkl) |
-| 3 | [**Figure**](Notebooks/PAV_Publication_Figure.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/PAV_Publication_Figure.ipynb)) | `pav_pub_data.pkl`, [`Behavior/pav_behavior_per_trial.csv`](Pavlovian/Behavior/pav_behavior_per_trial.csv) | Figure 1 (SVG + PNG) |
+| 1 | [**Preprocessing**](Notebooks/1_PAV_Preprocessing.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/1_PAV_Preprocessing.ipynb)) | [`Bonsai/Scaled_Renamed`](Pavlovian/Bonsai/Scaled_Renamed), [`RWD/RWD_Fluorescence`](Pavlovian/RWD/RWD_Fluorescence) | 48 merged CSVs + per-session QC |
+| 2 | [**Analysis**](Notebooks/2_PAV_Analysis.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/2_PAV_Analysis.ipynb)) | [`RWD/Processed Data`](Pavlovian/RWD/Processed%20Data) | [`pav_pub_data.pkl`](Pavlovian/pav_pub_data.pkl) |
+| 3 | [**Figure**](Notebooks/3_PAV_Publication_Figure.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/3_PAV_Publication_Figure.ipynb)) | `pav_pub_data.pkl`, [`Behavior/pav_behavior_per_trial.csv`](Pavlovian/Behavior/pav_behavior_per_trial.csv) | Figure 1 (SVG + PNG) |
 
 Each notebook resolves `main` to a commit SHA on startup and fetches everything by SHA, so
 a run is pinned to one version of the data and prints which one it used.
@@ -139,10 +139,10 @@ Raw acquisition files → merged per-animal CSVs → analysis pickle → figures
 
 | Step | Notebook | Reads | Writes |
 |------|----------|-------|--------|
-| 1 | [**Preprocessing**](Notebooks/VT_Preprocessing.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/VT_Preprocessing.ipynb)) | [`Bonsai/Raw`](VariableTone/Bonsai/Raw), [`RWD/RWD_Fluorescence`](VariableTone/RWD/RWD_Fluorescence) | 24 merged CSVs + per-animal QC |
-| 2 | [**Analysis**](Notebooks/VT_Publication_Analysis.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/VT_Publication_Analysis.ipynb)) | [`RWD/RWD_Processed`](VariableTone/RWD/RWD_Processed) | `vt_pub_data.pkl` |
-| 3 | [**Figure**](Notebooks/VT_Publication_Figure.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/VT_Publication_Figure.ipynb)) | `vt_pub_data.pkl` | Figure 1 — SHAM vs SNI (SVG + PNG) |
-| 4 | [**SK3 rescue figure**](Notebooks/VT_SK3_Rescue_Figure.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/VT_SK3_Rescue_Figure.ipynb)) | `vt_pub_data.pkl` | Figure 2 — SK3 rescue (SVG + PNG) |
+| 1 | [**Preprocessing**](Notebooks/4_VT_Preprocessing.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/4_VT_Preprocessing.ipynb)) | [`Bonsai/Raw`](VariableTone/Bonsai/Raw), [`RWD/RWD_Fluorescence`](VariableTone/RWD/RWD_Fluorescence) | 24 merged CSVs + per-animal QC |
+| 2 | [**Analysis**](Notebooks/5_VT_Publication_Analysis.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/5_VT_Publication_Analysis.ipynb)) | [`RWD/RWD_Processed`](VariableTone/RWD/RWD_Processed) | `vt_pub_data.pkl` |
+| 3 | [**Figure**](Notebooks/6_VT_Publication_Figure.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/6_VT_Publication_Figure.ipynb)) | `vt_pub_data.pkl` | Figure 1 — SHAM vs SNI (SVG + PNG) |
+| 4 | [**SK3 rescue figure**](Notebooks/7_VT_SK3_Rescue_Figure.ipynb) ([Open in Colab](https://colab.research.google.com/github/CreedLab-Neuro/Manuscript_PMID41279070/blob/main/Photometry/Notebooks/7_VT_SK3_Rescue_Figure.ipynb)) | `vt_pub_data.pkl` | Figure 2 — SK3 rescue (SVG + PNG) |
 
 Each notebook resolves `main` to a commit SHA on startup and fetches everything by SHA,
 so a run is pinned to one version of the data and prints which one it used.
